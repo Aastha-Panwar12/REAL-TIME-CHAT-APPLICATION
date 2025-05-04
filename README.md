@@ -34,3 +34,9 @@ Key Components:
 #Unlike HTTP requests, the connection stays open, reducing latency.
 
 A real-time chat app using React and WebSockets provides a smooth user experience with instant messaging capabilities. React handles dynamic UI updates, while WebSockets maintain an efficient communication channel between client and server. This architecture is scalable, modern, and ideal for applications requiring real-time data exchange.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/406e5030-c7a9-44c3-ace9-0ff7d5826006)
+
+![Image](https://github.com/user-attachments/assets/19d6553b-5ad1-44e4-8a8a-bcbd050184a2)
